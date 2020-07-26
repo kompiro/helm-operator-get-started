@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: kompiro/podinfo
-      tag: stg-6nqlli4z
+      tag: stg-uvtuvfph
     replicaCount: 2
     hpa:
       enabled: true
