@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: kompiro/podinfo
-      tag: dev-hks1ubxy
+      tag: dev-kwi5qeey
     replicaCount: 2
     hpa:
       enabled: false
